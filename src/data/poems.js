@@ -17,4 +17,19 @@ export default [
       </>
     ),
   },
+  {
+    title: "Honoring the Heroes",
+    author: "Baigs",
+    tags: ["Nostalgic", "Memorable", "Sexy", "Haiku"],
+    body: (
+      <>
+        Before Athens there
+        <br />
+        were trails to be run by 
+        <br />
+        hardened balls of glass
+        
+      </>
+    ),
+  },
 ]
